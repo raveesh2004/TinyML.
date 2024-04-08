@@ -41,5 +41,5 @@
 <p>Future work can focus on further optimizing the model architecture, exploring advanced techniques for improved accuracy, and expanding the dataset to include a wider range of emotions and diverse facial expressions. Additionally, the integration of the face emotion recognition model with real-world applications, such as human-computer interaction systems or mental health monitoring tools, can be explored to unlock the full potential of this technology.</p>
 ```
 
-You can copy and paste this HTML code into your GitHub repository's README file, and it will render the project report with proper headings, paragraphs, lists, and links.
+
 
